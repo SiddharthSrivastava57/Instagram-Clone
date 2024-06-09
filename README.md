@@ -33,3 +33,9 @@ Provide contact information for users to reach out with questions or feedback.
 ## Additional Information
 
 Include any additional information that might be relevant to users.
+
+## Screenshots
+
+![Homepage]()
+![Dashboard]()
+
