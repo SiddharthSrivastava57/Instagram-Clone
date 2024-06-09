@@ -1,38 +1,14 @@
-# Project Title
+# Instagram Clone
 
-A brief description of your project.
+This project is a clone of Instagram's landing page, designed to replicate the look and feel of the original page.
 
-## Installation
+## Features
 
-Instructions on how to install or deploy your website.
-
-## Usage
-
-Guidelines on how users can interact with your website.
-
-## Configuration
-
-Information on how to configure any settings required by your website.
-
-## Contributing
-
-Guidelines for contributing to your project.
-
-## License
-
-Specify the license under which your website is distributed.
-
-## Credits
-
-Acknowledge any third-party libraries, frameworks, or resources used in your project.
-
-## Contact
-
-Provide contact information for users to reach out with questions or feedback.
-
-## Additional Information
-
-Include any additional information that might be relevant to users.
+1.Responsive Design: The landing page is designed to be responsive and adapt to different screen sizes.
+2.Image Grid: Display a grid of images similar to Instagram's main page.
+Login/Signup: Provide options for users to log in or sign up for an account.
+3.Footer Links: Include links to various pages like About, Help, Terms, etc.
+4.Social Media Icons: Include icons linking to Instagram's official social media profiles.
 
 ## Screenshots
 
